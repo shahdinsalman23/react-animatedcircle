@@ -28,6 +28,13 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 
+## 🎮 Usage
+- Observe the 3D rotating cylinder in the canvas.
+- Experiment with the commented-out postprocessing effects in the code (e.g., `Bloom` and `ToneMapping`) for advanced visuals.
+- Update the texture (`image.png`) in the `public` directory to customize the model's appearance.
+
+
+
 ## 🌐 Resources
 - [React Three Fiber Documentation](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - [Drei - Essential Helpers for React Three Fiber](https://github.com/pmndrs/drei)
