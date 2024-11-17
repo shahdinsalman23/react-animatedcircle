@@ -27,3 +27,34 @@ Follow these steps to run the project locally:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
+
+## 🌐 Resources
+- [React Three Fiber Documentation](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+- [Drei - Essential Helpers for React Three Fiber](https://github.com/pmndrs/drei)
+- [React PostProcessing Effects](https://github.com/pmndrs/react-postprocessing)
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to:
+- Open issues for bugs or suggestions.
+- Submit pull requests with improvements.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to use it for personal or commercial purposes. See the `LICENSE` file for more details.
+
+---
+
+## 🧑‍💻 Author
+**Shahdin Salman**  
+- [GitHub Profile](https://github.com/shahdinsalman23)  
+- [Portfolio]([https://your-portfolio-link.com](https://shahdinsalman23.github.io/shahdinportfolio.github.io))
+
+---
+
+## ⭐ Acknowledgements
+- **React Three Fiber** for powering the 3D rendering.
+- **Three.js** for the 3D graphics library.
+- Special thanks to the **Drei** library for its incredible helper functions.
