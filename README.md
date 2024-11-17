@@ -57,7 +57,7 @@ This project is licensed under the **MIT License**. Feel free to use it for pers
 ## 🧑‍💻 Author
 **Shahdin Salman**  
 - [GitHub Profile](https://github.com/shahdinsalman23)  
-- [Portfolio]([https://your-portfolio-link.com](https://shahdinsalman23.github.io/shahdinportfolio.github.io))
+- [Linkedin](https://www.linkedin.com/in/shahdinsalman/)
 
 ---
 
